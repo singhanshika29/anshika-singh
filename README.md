@@ -30,6 +30,8 @@ I enjoy building real-world projects using Machine Learning and Web Development,
 * Built a ML model for prediction tasks
 * Used preprocessing, training, and evaluation techniques
 
+
+
 ### 🔹 Portfolio Website
 
 * Personal portfolio built using HTML, CSS, JavaScript
@@ -53,6 +55,11 @@ I enjoy building real-world projects using Machine Learning and Web Development,
 🌐 Portfolio: https://singhanshika29.github.io/Anshika-Portfolio-29/
 
 ---
+
+## Important
+
+🚧 Currently working on improving and adding real-world projects.
+Stay tuned for updates!
 
 ##  Fun Fact
 
