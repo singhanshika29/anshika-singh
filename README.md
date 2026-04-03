@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Anshika Singh
+#  Hi, I'm Anshika Singh
 
-💻 Aspiring Machine Learning Engineer | MLOps Learner
-🌐 Web Developer | AI Enthusiast
+ Aspiring Machine Learning Engineer | MLOps Learner
+ Web Developer | AI Enthusiast
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I am a motivated fresher transitioning from a non-technical background into tech.
 I focus on building real-world projects using Machine Learning and Web Development.
@@ -13,17 +13,17 @@ Currently learning MLOps to build scalable ML systems.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-* 💻 Languages: Python, JavaScript
-* 🌐 Web: HTML, CSS
-* 🤖 ML: Pandas, NumPy, Scikit-learn
-* ⚙️ Tools: Git, GitHub
-* 📦 Learning: MLflow, DVC
+*  Languages: Python, JavaScript
+*  Web: HTML, CSS
+*  ML: Pandas, NumPy, Scikit-learn
+*  Tools: Git, GitHub
+*  Learning: MLflow, DVC
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ### 🔹 Diabetes Care with AI
 
@@ -43,13 +43,13 @@ Currently learning MLOps to build scalable ML systems.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=singhanshika29\&show_icons=true\&theme=radical)
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 * MLOps (MLflow, DVC)
 * Model Deployment
@@ -57,7 +57,7 @@ Currently learning MLOps to build scalable ML systems.
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 📧 [singhanshika29.as@gmail.com](mailto:singhanshika29.as@gmail.com)
 🔗 https://github.com/singhanshika29
@@ -67,7 +67,7 @@ Currently learning MLOps to build scalable ML systems.
 
 ## Important
 
-🚧 Currently working on improving and adding real-world projects.
+Currently working on improving and adding real-world projects.
 Stay tuned for updates!
 
 ##  Fun Fact
