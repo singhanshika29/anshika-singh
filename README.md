@@ -41,11 +41,6 @@ Currently learning MLOps to build scalable ML systems.
 * Developed UI for rent management system
 * Tech: HTML, CSS, JavaScript
 
----
-
-##  GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=singhanshika29\&show_icons=true\&theme=radical)
 
 ---
 
