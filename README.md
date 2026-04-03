@@ -1,60 +1,69 @@
-#  Hi, I'm Anshika Singh
+# 👋 Hi, I'm Anshika Singh
 
-💻 Aspiring Machine Learning Engineer | MLOps Enthusiast
-🎓 BA Graduate (University of Lucknow, 2025)
-🌱 Currently learning Machine Learning, MLOps & Web Development
-
----
-
-##  About Me
-
-I am a passionate fresher transitioning from a non-technical background into the tech field.
-I enjoy building real-world projects using Machine Learning and Web Development, and I am currently focusing on creating scalable ML pipelines using MLOps tools.
+💻 Aspiring Machine Learning Engineer | MLOps Learner
+🌐 Web Developer | AI Enthusiast
 
 ---
 
-##  Skills
+## 🚀 About Me
 
-* Programming: Python
-* Web: HTML, CSS, JavaScript
-* ML Tools: Scikit-learn, Pandas, NumPy
-* MLOps: MLflow, DVC (Learning)
-* Tools: Git, GitHub
+I am a motivated fresher transitioning from a non-technical background into tech.
+I focus on building real-world projects using Machine Learning and Web Development.
+Currently learning MLOps to build scalable ML systems.
 
 ---
 
-##  Projects
+## 🛠️ Tech Stack
 
-### 🔹 Machine Learning Project
-
-* Built a ML model for prediction tasks
-* Used preprocessing, training, and evaluation techniques
-
-
-
-### 🔹 Portfolio Website
-
-* Personal portfolio built using HTML, CSS, JavaScript
-* Showcases projects and contact information
+* 💻 Languages: Python, JavaScript
+* 🌐 Web: HTML, CSS
+* 🤖 ML: Pandas, NumPy, Scikit-learn
+* ⚙️ Tools: Git, GitHub
+* 📦 Learning: MLflow, DVC
 
 ---
 
-## Currently Learning
+## 📌 Featured Projects
+
+### 🔹 Diabetes Care with AI
+
+* Built an ML model for health prediction
+* Applied preprocessing and model evaluation
+* Tech: Python, Machine Learning
+
+### 🔹 JavaScript Projects
+
+* Implemented event handling & async JS concepts
+* Created real-world mini projects
+
+### 🔹 Rental Management Frontend
+
+* Developed UI for rent management system
+* Tech: HTML, CSS, JavaScript
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=singhanshika29\&show_icons=true\&theme=radical)
+
+---
+
+## 🌱 Currently Learning
 
 * MLOps (MLflow, DVC)
-* Deployment of ML models
-* Backend development
+* Model Deployment
+* Backend Development
 
 ---
 
-##  Contact Me
+## 📫 Connect With Me
 
-📧 Email: [singhanshika29.as@gmail.com](mailto:singhanshika29.as@gmail.com)
-📱 Phone: +91-9889747955
-🔗 GitHub: https://github.com/singhanshika29
-🌐 Portfolio: https://singhanshika29.github.io/Anshika-Portfolio-29/
+📧 [singhanshika29.as@gmail.com](mailto:singhanshika29.as@gmail.com)
+🔗 https://github.com/singhanshika29
 
 ---
+
 
 ## Important
 
